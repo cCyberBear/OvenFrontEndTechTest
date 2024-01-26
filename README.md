@@ -2,6 +2,10 @@
 
 This is a simple Todo List application built using Next.js, Ant Design, and SCSS.
 
+## Demo
+
+Check out the [demo here](https://oven-front-end-tech-test.vercel.app/).
+
 ## Project Setup
 
 ### Prerequisites
