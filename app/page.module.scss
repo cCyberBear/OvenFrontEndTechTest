@@ -1,0 +1,21 @@
+.main {
+  h1 {
+    margin: 24px 0;
+  }
+  &_heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: #1890ff;
+    margin-bottom: 16px;
+  }
+  &_right {
+    height: calc(100vh - 48px);
+    padding: 24px 0;
+    &_background {
+      height: 100%;
+      width: 100%;
+      background-color: #f3f3f3;
+      border-radius: 8px;
+    }
+  }
+}
