@@ -55,7 +55,7 @@ export default function Home() {
       <div className="container">
         <Row gutter={[24]}>
           <Col lg={12} md={12} sm={24} xs={24}>
-            <h1 className={styles.main_heading}>Khuong Duy's TODO LIST</h1>
+            <h1 className={styles.main_heading}>Khuong Duy&apos;s TODO LIST</h1>
 
             <Row gutter={[24, 24]} className={styles.main}>
               <Col span={24}>
